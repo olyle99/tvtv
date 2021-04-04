@@ -1,3 +1,36 @@
+#EXTINF:0 group-title="LOKALE",Klan HD 
+#EXTVLCOPT:network-caching=1000
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/9454
+#EXTINF:0 group-title="LOKALE",Klan FHD 
+#EXTVLCOPT:network-caching=1000
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/3800
+#EXTINF:0 group-title="LOKALE",Klan Plus HD 
+#EXTVLCOPT:network-caching=1000
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/7074
+#EXTINF:0 group-title="LOKALE",Top Channel 
+#EXTVLCOPT:network-caching=1000
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/9457
+#EXTINF:0 group-title="LOKALE",Top Channel FHD 
+#EXTVLCOPT:network-caching=1000
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/4178
+#EXTINF:0 group-title="LOKALE",Alsat M 
+#EXTVLCOPT:network-caching=1000
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/6259
+#EXTINF:0 group-title="LOKALE",Alsat M (Backup)
+#EXTVLCOPT:network-caching=1000
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/9450
+#EXTINF:0 group-title="LOKALE",Alsat M FHD 
+#EXTVLCOPT:network-caching=1000
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/22783
+#EXTINF:0 group-title="LOKALE",Vizion Plus HD 
+#EXTVLCOPT:network-caching=1000
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/4214
+#EXTINF:0 group-title="LOKALE",Vizion Plus 
+#EXTVLCOPT:network-caching=1000
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/9463
+#EXTINF:0 group-title="LOKALE",Klan Macedonia
+#EXTVLCOPT:network-caching=1000
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/27538
 #EXTINF:0 group-title="LOKALE",RTK 1 
 #EXTVLCOPT:network-caching=1000
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/9458
@@ -43,39 +76,6 @@ http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/23108
 #EXTINF:0 group-title="LOKALE",Dukagjini FHD 
 #EXTVLCOPT:network-caching=1000
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/4236
-#EXTINF:0 group-title="LOKALE",Klan HD 
-#EXTVLCOPT:network-caching=1000
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/9454
-#EXTINF:0 group-title="LOKALE",Klan FHD 
-#EXTVLCOPT:network-caching=1000
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/3800
-#EXTINF:0 group-title="LOKALE",Klan Plus HD 
-#EXTVLCOPT:network-caching=1000
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/7074
-#EXTINF:0 group-title="LOKALE",Top Channel 
-#EXTVLCOPT:network-caching=1000
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/9457
-#EXTINF:0 group-title="LOKALE",Top Channel FHD 
-#EXTVLCOPT:network-caching=1000
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/4178
-#EXTINF:0 group-title="LOKALE",Alsat M 
-#EXTVLCOPT:network-caching=1000
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/6259
-#EXTINF:0 group-title="LOKALE",Alsat M (Backup)
-#EXTVLCOPT:network-caching=1000
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/9450
-#EXTINF:0 group-title="LOKALE",Alsat M FHD 
-#EXTVLCOPT:network-caching=1000
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/22783
-#EXTINF:0 group-title="LOKALE",Vizion Plus HD 
-#EXTVLCOPT:network-caching=1000
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/4214
-#EXTINF:0 group-title="LOKALE",Vizion Plus 
-#EXTVLCOPT:network-caching=1000
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/9463
-#EXTINF:0 group-title="LOKALE",Klan Macedonia
-#EXTVLCOPT:network-caching=1000
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/27538
 #EXTINF:0 group-title="LOKALE",ALBUK HD 
 #EXTVLCOPT:network-caching=1000
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/12053
@@ -149,37 +149,76 @@ http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/9367
 #EXTVLCOPT:network-caching=1000
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/53152
 
-#EXTINF:0 group-title="LAJME",Top News 
+#EXTINF:-1 group-title="[AL]LAJME",VOA HD 
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc4@320296/master.m3u8
+#EXTINF:0 group-title="[AL]LAJME",EURONEWS-AL HD
+http://171.22.150.202:5050/live/euronewsmob/playlist.m3u8
+#EXTINF:0 group-title="[AL]LAJME",EURONEWS-AL
+http://93.157.62.180/Euronews/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]LAJME",SYRI TV HD 
+https://tv.syri.net/syrilive/webtv/playlist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]LAJME",A2 CNN HD
+http://93.157.62.180/A2CNN/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]LAJME",TOP NEWS HD
+http://93.157.62.180/TopNews/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]LAJME",ABC NEWS HD
+https://abcnews.al/abcnewslive/abcnews/chunks.m3u8
+#EXTINF:0 group-title="[AL]LAJME",ABC NEWS
+http://93.157.62.180/ABCNews/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]LAJME",NEWS HD
+http://171.22.150.202:5050/live/klannewsmob/playlist.m3u8
+#EXTINF:0 group-title="[AL]LAJME",KLAN NEWS
+http://93.157.62.180/KlanNews/index.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[AL]LAJME",FAX NEWS HD
+http://171.22.150.202:5050/live/faxnewsmob/playlist.m3u8
+#EXTINF:-1 group-title="[AL]LAJME",FAX NEWS 
+http://edge01eu.ekranet.com/faxnews/index.m3u8
+#EXTINF:-1 group-title="[AL]LAJME",News 24 HD
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1 group-title="[AL]LAJME",News 24
+http://93.157.62.180/News24/index.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[AL]LAJME",REPORT TV HD
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:-1 group-title="[AL]LAJME",7 NEWS HD
+http://84.22.33.254/unicast.kanali7/index.m3u8?token=tv
+#EXTINF:-1 group-title="[AL]LAJME",ORA NEWS HD
+https://tv.oranews.tv/live/oranews/index.m3u8
+#EXTINF:-1 group-title="[AL]LAJME",APOLLON HD
+http://185.80.224.14:99/Apollon-WEB/video.m3u8?token=tnt3OBh0d2
+#EXTINF:0 group-title="[AL]LAJME",ARTA NEWS HD
+http://84.22.33.254/unicast.artanews/index.m3u8?token=tv
+
+#EXTINF:0 group-title="LAJME 2",Top News 
 #EXTVLCOPT:network-caching=1000
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/4209
-#EXTINF:0 group-title="LAJME",ABC News 
+#EXTINF:0 group-title="LAJME 2",ABC News 
 #EXTVLCOPT:network-caching=1000
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/6263
-#EXTINF:0 group-title="LAJME",News 24 HD
+#EXTINF:0 group-title="LAJME 2",News 24 HD
 #EXTVLCOPT:network-caching=1000
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/3795
-#EXTINF:0 group-title="LAJME",Ora News 
+#EXTINF:0 group-title="LAJME 2",Ora News 
 #EXTVLCOPT:network-caching=1000
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/7066
-#EXTINF:0 group-title="LAJME",Kanali 7 News 
+#EXTINF:0 group-title="LAJME 2",Kanali 7 News 
 #EXTVLCOPT:network-caching=1000
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/8777
-#EXTINF:0 group-title="LAJME",RTSH 24 
+#EXTINF:0 group-title="LAJME 2",RTSH 24 
 #EXTVLCOPT:network-caching=1000
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/20173
-#EXTINF:0 group-title="LAJME",Kanali 7 
+#EXTINF:0 group-title="LAJME 2",Kanali 7 
 #EXTVLCOPT:network-caching=1000
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/19544
-#EXTINF:0 group-title="LAJME",arta TV HD 
+#EXTINF:0 group-title="LAJME 2",arta TV HD 
 #EXTVLCOPT:network-caching=1000
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/21901
-#EXTINF:0 group-title="LAJME",Euronews HD 
+#EXTINF:0 group-title="LAJME 2",Euronews HD 
 #EXTVLCOPT:network-caching=1000
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/34755
-#EXTINF:0 group-title="LAJME",Apollon 
+#EXTINF:0 group-title="LAJME 2",Apollon 
 #EXTVLCOPT:network-caching=1000
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/9389
-#EXTINF:0 group-title="LAJME",Report TV 
+#EXTINF:0 group-title="LAJME 2",Report TV 
 #EXTVLCOPT:network-caching=1000
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/9366
 
@@ -604,6 +643,12 @@ http://93.157.62.180/KSport2/index.m3u8|User-Agent=stream
 http://93.157.62.180/KSport3/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%204.png",[$]KUJTESA SPORT 4HD
 http://93.157.62.180/KSport4/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="https://i.imgur.com/l2kAyTL.png",[$]ART SPORT 1HD
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/28182
+#EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="https://i.imgur.com/KVqDw9l.png",[$]ART SPORT 2HD
+http://93.157.62.180/ArtSport2/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="https://i.imgur.com/RIHyRkP.png",[$]ART SPORT 3HD
+http://93.157.62.180/ArtSport3/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="https://i.imgur.com/2KOyX5s.jpg",[$]EUROSPORT 1HD
 http://flusonic-1.platinum-tv.com/eurosport_1/index.m3u8?token=test
 #EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="https://i.imgur.com/7D9744z.jpg",[$]EUROSPORT 2HD
